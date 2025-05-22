@@ -1,0 +1,9 @@
+# proyect dependencies
+numpy
+pandas
+requests
+python-dotenv
+# PyPI dependencies|
+setuptools
+wheel
+twine
